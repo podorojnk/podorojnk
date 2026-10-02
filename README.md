@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=podorojnk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![]([https://github-readme-stats.shion.dev/api/top-langs/?username=podorojnk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact](https://i.pinimg.com/1200x/8d/49/7c/8d497c62991ab896c0461f0293ea0b34.jpg)
-
+![] (https://i.pinimg.com/1200x/8d/49/7c/8d497c62991ab896c0461f0293ea0b34.jpg)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
